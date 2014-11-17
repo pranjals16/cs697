@@ -1,0 +1,26 @@
+\begin{thebibliography}{1}
+
+\bibitem{Apidianaki:2011:UCL:2140458.2140461}
+Marianna Apidianaki.
+\newblock Unsupervised cross-lingual lexical substitution.
+\newblock In {\em Proceedings of the First Workshop on Unsupervised Learning in
+  NLP}, EMNLP '11, pages 13--23, Stroudsburg, PA, USA, 2011. Association for
+  Computational Linguistics.
+
+\bibitem{Tiedemann:2004:WWA:1220355.1220386}
+J\"{o}rg Tiedemann.
+\newblock Word to word alignment strategies.
+\newblock In {\em Proceedings of the 20th International Conference on
+  Computational Linguistics}, COLING '04, Stroudsburg, PA, USA, 2004.
+  Association for Computational Linguistics.
+
+\bibitem{Virga:2003:TPN:1119384.1119392}
+Paola Virga and Sanjeev Khudanpur.
+\newblock Transliteration of proper names in cross-lingual information
+  retrieval.
+\newblock In {\em Proceedings of the ACL 2003 Workshop on Multilingual and
+  Mixed-language Named Entity Recognition - Volume 15}, MultiNER '03, pages
+  57--64, Stroudsburg, PA, USA, 2003. Association for Computational
+  Linguistics.
+
+\end{thebibliography}

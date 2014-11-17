@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+
+\bibitem{Apidianaki:2011:UCL:2140458.2140461}
+Marianna Apidianaki.
+\newblock Unsupervised cross-lingual lexical substitution.
+\newblock In {\em Proceedings of the First Workshop on Unsupervised Learning in
+  NLP}, EMNLP '11, pages 13--23, Stroudsburg, PA, USA, 2011. Association for
+  Computational Linguistics.
+
+\bibitem{harris1954distributional}
+Zellig~S Harris.
+\newblock Distributional structure.
+\newblock {\em Word}, 1954.
+
+\bibitem{Hofmann:2001}
+Thomas Hofmann.
+\newblock Unsupervised learning by probabilistic latent semantic analysis.
+\newblock {\em Machine Learning}, 42(1):177--196, 2001.
+
+\bibitem{Ji_cross-lingualpredicate}
+Heng Ji.
+\newblock Cross-lingual predicate cluster acquisition to improve bilingual
+  event extraction by inductive learning.
+
+\bibitem{Ji:2009:CPC:1641968.1641972}
+Heng Ji.
+\newblock Cross-lingual predicate cluster acquisition to improve bilingual
+  event extraction by inductive learning.
+\newblock In {\em Proceedings of the Workshop on Unsupervised and Minimally
+  Supervised Learning of Lexical Semantics}, UMSLLS '09, pages 27--35,
+  Stroudsburg, PA, USA, 2009. Association for Computational Linguistics.
+
+\bibitem{Solan16082005}
+Zach Solan, David Horn, Eytan Ruppin, and Shimon Edelman.
+\newblock Unsupervised learning of natural languages.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America}, 102(33):11629--11634, 2005.
+
+\bibitem{Tackstrom:2012:CWC:2382029.2382096}
+Oscar T\"{a}ckstr\"{o}m, Ryan McDonald, and Jakob Uszkoreit.
+\newblock Cross-lingual word clusters for direct transfer of linguistic
+  structure.
+\newblock In {\em Proceedings of the 2012 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, NAACL HLT '12, pages 477--487, Stroudsburg, PA, USA, 2012.
+  Association for Computational Linguistics.
+
+\bibitem{conf/naacl/TackstromMU12}
+Oscar Täckström, Ryan~T. McDonald, and Jakob Uszkoreit.
+\newblock Cross-lingual word clusters for direct transfer of linguistic
+  structure.
+\newblock In {\em HLT-NAACL}, pages 477--487. The Association for Computational
+  Linguistics, 2012.
+
+\bibitem{Tiedemann:2004:WWA:1220355.1220386}
+J\"{o}rg Tiedemann.
+\newblock Word to word alignment strategies.
+\newblock In {\em Proceedings of the 20th International Conference on
+  Computational Linguistics}, COLING '04, Stroudsburg, PA, USA, 2004.
+  Association for Computational Linguistics.
+
+\bibitem{Virga:2003:TPN:1119384.1119392}
+Paola Virga and Sanjeev Khudanpur.
+\newblock Transliteration of proper names in cross-lingual information
+  retrieval.
+\newblock In {\em Proceedings of the ACL 2003 Workshop on Multilingual and
+  Mixed-language Named Entity Recognition - Volume 15}, MultiNER '03, pages
+  57--64, Stroudsburg, PA, USA, 2003. Association for Computational
+  Linguistics.
+
+\end{thebibliography}
